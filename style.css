@@ -1,0 +1,154 @@
+body {
+  background-color: #1e202a;
+}
+
+#fon {
+  width: 727px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#prof {
+  font-family: 'Oswald', sans-serif;
+  color: #3C3C3C;
+  font-size: 25px;
+}
+
+#big_text {
+  font-family: 'Oswald', sans-serif;
+  color: #3C3C3C;
+  text-align: center;
+  line-height: 51px;
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+#logCont {
+  width: 394px;
+  border-radius: 9px;
+  background: #3c3c3c;
+  padding: 10px;
+  display: flex;
+  margin-top: 20px;
+}
+
+#infoCont {
+  display: flex;
+  justify-content: space-between;
+  width: 746px;
+}
+
+#hisCont {
+  padding: 10px;
+  width: 618px;
+  background: #3c3c3c;
+  margin-top: 20px;
+  border-radius: 9px;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  text-align: center;
+  line-height: 51px;
+  font-size: 20px;
+}
+
+#usersCont {
+  padding: 10px 0px;
+  width: 90px;
+  background: #3c3c3c;
+  margin-top: 20px;
+  border-radius: 9px;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  text-align: center;
+  line-height: 38px;
+  font-size: 20px;
+}
+
+#reload {
+  width: 744px;
+  background: #3c3c3c;
+  margin-bottom: 20px;
+  border-radius: 9px;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  text-align: center;
+  line-height: 43px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#hisText {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  text-align: center;
+  line-height: 51px;
+  font-size: 20px;
+}
+
+
+
+
+#card {
+  margin: 10px;
+  padding: 10px;
+  width: 323px;
+  height: 192px;
+  border-radius: 9px;
+  background: #FCFCFC;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#cardFon {
+  padding: 10px;
+  display: flex;
+  width: 727px;
+  background: #3c3c3c;
+  margin-top: 20px;
+  border-radius: 9px;
+}
+
+
+
+
+#inp {
+  font-family: 'Oswald', sans-serif;
+  height: 30px;
+  border-radius: 5px;
+  background: #3C3C3C;
+  color: white;
+  font-size: 17px;
+  border-width: 0;
+  padding: 5px 10px;
+  outline: none;
+}
+
+.namBank {
+  width: 73px;
+  margin-right: 10px;
+}
+
+.sum {
+  width: 150px;
+  margin-right: 10px;
+}
+
+
+
+
+#but {
+  width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  background: #3C3C3C;
+}
+
+
+
+
+
+#tranCont {
+  display: flex;
+}
